@@ -2,7 +2,7 @@
 ## UNIVERSITY DB
 repo: db-university
 
-**CONSEGNA**
+**CONSEGNA 1**
 Modellizzare la struttura di un database per memorizzare tutti i dati riguardanti una università:
 
 - sono presenti diversi Dipartimenti (es.: Lettere e Filosofia, Matematica, Ingegneria ecc.);
@@ -16,3 +16,6 @@ Modellizzare la struttura di un database per memorizzare tutti i dati riguardant
 
 Pensiamo a quali entità (tabelle) creare per il nostro database e cerchiamo poi di stabilirne le relazioni. Infine, andiamo a definire le colonne e i tipi di dato di ogni tabella.
 
+**CONSEGNA 2**
+
+Dopo aver creato un nuovo database nel vostro MySQL Workbench e aver importato lo schema allegato, eseguite le query del file allegato.
